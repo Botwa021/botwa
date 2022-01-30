@@ -21,15 +21,14 @@ global.kontak = ['6285876902820','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6285876902820'] // Premium user has unlimited limit
 global.APIs = { KingOfbear// API Prefix
-  // name: 'https://website' 
-
+  // name: 'https://website'
+  nrtm: 'https://nurutomo.herokuapp.com', 
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',
   dhnjing: 'https://dhnjing.xyz',
   zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
-  nrtm: 'https://nurutomo.herokuapp.com', 
   bear: 'https://apikey-bear.herokuapp.com',
   bear2: 'https://apikey-bear2.herokuapp.com',
   bear3: 'https://apikey-bear3.herokuapp.com',
