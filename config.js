@@ -29,6 +29,7 @@ global.APIs = { KingOfbear// API Prefix
   dhnjing: 'https://dhnjing.xyz',
   zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
+  nrtm: 'https://nurutomo.herokuapp.com', 
   bear: 'https://apikey-bear.herokuapp.com',
   bear2: 'https://apikey-bear2.herokuapp.com',
   bear3: 'https://apikey-bear3.herokuapp.com',
