@@ -22,6 +22,7 @@ global.mods = ['0'] // Want some help?
 global.prems = ['6285876902820'] // Premium user has unlimited limit
 global.APIs = { KingOfbear// API Prefix
   // name: 'https://website'
+
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',
